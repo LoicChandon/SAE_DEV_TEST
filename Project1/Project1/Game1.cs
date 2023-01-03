@@ -14,7 +14,7 @@ namespace Project1
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
-            // commit sans importance
+            // commit sans importance vrvrddhzr
         }
 
         protected override void Initialize()
